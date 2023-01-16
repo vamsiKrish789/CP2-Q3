@@ -6,4 +6,4 @@ const getPeopleInCity = (peopleNames) => {
   return getFirstNames(peopleNames);
 };
 
-module.exports = getPeopleInCity(peopleNames);
+module.exports = getPeopleInCity;
